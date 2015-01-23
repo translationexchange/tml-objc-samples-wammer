@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.github.com/tr8n/tr8n/master/doc/screenshots/tr8nlogo.png">
+  <img src="https://avatars0.githubusercontent.com/u/1316274?v=3&s=200">
 </p>
 
 # iOS Sample Application
@@ -11,8 +11,8 @@ This application demonstrates some of the capabilities of Tml translation librar
 
 Clone the source code and install Pods:
 
-	$ git clone https://github.com/tr8n/tr8n_samples_wammer.git
-	$ cd tr8n_samples_wammer
+	$ git clone https://github.com/translationexchange/tml-objc-samples-wammer.git
+	$ cd tml-objc-samples-wammer
 	$ pod install
 
 
@@ -21,20 +21,40 @@ Now you can open the workspace and run the application:
 	$ open "Wammer.xcworkspace"
 
 
-
-Where can I get more information?
+Links
 ==================
 
-* Register on TmlHub.com: https://tr8nhub.com
+* Register on TranslationExchange.com: http://translationexchange.com
 
-* Read TmlHub's documentation: http://wiki.tr8nhub.com
+* Read Translation Exchange documentation: http://translationexchange.com/docs
 
-* Visit TmlHub's blog: http://blog.tr8nhub.com
+* Follow TranslationExchange on Twitter: https://twitter.com/translationx
 
-* Follow TmlHub on Twitter: https://twitter.com/TmlHub
+* Connect with TranslationExchange on Facebook: https://www.facebook.com/translationexchange
 
-* Connect with TmlHub on Facebook: https://www.facebook.com/pages/tr8nhubcom/138407706218622
+* If you have any questions or suggestions, contact us: feedback@translationexchange.com
 
-* If you have any questions or suggestions, contact us: feedback@tr8nhub.com
 
-	
+Copyright and license
+==================
+
+Copyright (c) 2015 Translation Exchange Inc
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
